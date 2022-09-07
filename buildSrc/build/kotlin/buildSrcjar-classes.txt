@@ -1,0 +1,1 @@
+C:\Users\User\AndroidStudioProjects\NetflixApp\buildSrc\build\classes\kotlin\main\AndroidProjectConfig.class;C:\Users\User\AndroidStudioProjects\NetflixApp\buildSrc\build\classes\kotlin\main\Libraries$Versions.class;C:\Users\User\AndroidStudioProjects\NetflixApp\buildSrc\build\classes\kotlin\main\Libraries.class
